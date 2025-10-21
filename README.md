@@ -19,12 +19,15 @@ Buat folder bernama `Lab4Web` dan file pertama `lab4_box.html`.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Box Element</title>
+    <title>Mengenal JavaScript</title>
 </head>
 <body>
-    <header>
-        <h1>Box Element</h1>
-    </header>
+      <h1>Pengenalan JavaScript</h1>
+      <3>Contoh document.write dan console.log</h3>
+      <script>
+        document.write("Hello World");
+        console.log("Hello World");
+      <script>
 </body>
 </html>
 ```
